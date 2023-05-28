@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 I’m currently Working on **to Make a Beautiful AI Website**
+- 🔭 I’m currently Working on **a Website**
 
 - 🌱 I’m currently learning **React, Java, etc.**
 
