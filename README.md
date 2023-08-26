@@ -15,7 +15,7 @@
 
 - 💬 Ask me **if you feel any problem**
 
-- 📫 How to reach me **donaldoyash32@gmail.com**
+- 📫 How to reach me **yashdonaldo@gmail.com**
 
 - 📄 Know about my experiences [https://web.telegram.org/k/#@yashdonaldo](https://web.telegram.org/k/#@yashdonaldo)
 
