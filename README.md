@@ -9,10 +9,8 @@
 
 - 🌱 I’m currently learning **React, Java, etc.**
 
-- 👨‍💻 All of my projects are available at [My GitHub Account or Any Social media account](My GitHub Account or Any Social media account)
-
-- 📝 I regularly write articles on [My Socal Media Account](My Socal Media Account)
-
+- 👨‍💻 All of my projects are available on My GitHub Account or Any Social media account
+- 📝 I regularly write articles on My social media Account
 - 💬 Ask me **if you feel any problem**
 
 - 📫 How to reach me **yashdonaldo@gmail.com**
