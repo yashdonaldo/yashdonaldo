@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 I’m currently Working on **a Website**
+- 🔭 Hey I'm Yash **(Web Developer)**
 
-- 🌱 I’m currently learning **React, Java, etc.**
+- 🌱 Work With Me To **Know Me Better**
 
 - 👨‍💻 All of my projects are available on My GitHub Account or Any Social media account
 - 📝 I regularly write articles on My social media Account
-- 💬 Ask me **if you feel any problem**
+- 💬 Feel Free **to ask me anything**
 
 - 📫 How to reach me **yashdonaldo@gmail.com**
 
-- 📄 Know about my experiences [https://web.telegram.org/k/#@yashdonaldo](https://web.telegram.org/k/#@yashdonaldo)
+- 📄 Know about my experiences (https://web.telegram.org/k/#@yashdonaldo)
 
 - ⚡ Fun fact **I think I'm Funny🤣**
 
