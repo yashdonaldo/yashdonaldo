@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 Hey I'm Yash **(Mearn & DevOps Developer)**
+- 🔭 Hey I'm Yash **(MERN & DevOps Developer)**
 
 - 🌱 Work With Me To **Know Me Better**
 
