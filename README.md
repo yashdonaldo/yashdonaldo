@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yash Donaldo</h1>
-<h3 align="center">A passionate Full Stack developer & DevOps Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer & DevOps Engineer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 Hey I'm Yash **(MERN & DevOps Developer)**
+- 🔭 Hey I'm Yash **(MERN & DevOps Engineer)**
   
 -  🏢 Currently I'm Exploring Data Science
--  
+   
 - 🌱 Work With Me To **Know Me Better**
 
 - 👨‍💻 All of my projects are available on My GitHub Account
