@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 Hey I'm Yash **(MERN & DevOps Engineer)**
+- 🔭 Hey I'm Yash **(Full Stack Developer & DevOps Engineer)**
   
--  🏢 Currently I'm Exploring Data Science
+-  🏢 Currently I'm Exploring Data Science and Working on Project
    
 - 🌱 Work With Me To **Know Me Better**
 
