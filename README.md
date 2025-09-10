@@ -8,6 +8,16 @@
 - 🔭 Hey I'm Yash **(Full Stack Developer & DevOps Engineer)**
   
 -  🏢 Currently I'm Exploring Data Science and Working on Project
+  
+-  I help startups and businesses build:
+
+  - ⚡ Blazing fast Next.js websites
+
+  - 🤖 AI chatbots (trained on your data/docs)
+
+  - 🛍️ Shopify & WordPress custom solutions
+
+  - 📊 Business dashboards & automation tools
    
 - 🌱 Work With Me To **Know Me Better**
 
