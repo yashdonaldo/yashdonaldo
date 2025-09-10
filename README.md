@@ -10,13 +10,13 @@
 -  🏢 Currently I'm Exploring Data Science and Working on Project
   
 -  I help startups and businesses to build :-
-    - ⚡ Blazing fast Next.js websites
+    - ⚡ Blazing fast Next.js websites & AI Integration
 
     - 🤖 AI chatbots (trained on your data/docs)
 
     - 🛍️ Shopify & WordPress custom solutions
 
-    - 📊 Business dashboards & automation tools
+    - 📊 Business dashboards & automation tools | CMS 
    
 - 🌱 Work With Me To **Know Me Better**
 
