@@ -7,7 +7,7 @@
 
 - 🔭 Hey I'm Yash **(Full Stack Developer & DevOps Engineer)**
   
--  🏢 Currently I'm Exploring Data Science and Working on Project
+-  🏢 Currently I'm Exploring Machine Learning and Working on Project
   
 -  I help startups and businesses to build :-
     - ⚡ Blazing fast Next.js websites & AI Integration
