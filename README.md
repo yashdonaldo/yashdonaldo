@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdonaldo&label=Profile%20views&color=0e75b6&style=flat" alt="yashdonaldo" /> </p>
 
-- 🔭 Hey I'm Yash **(Full Stack Developer & DevOps Engineer)**
+- 🔭 Hey I'm Yash **(Full Stack Developer)**
   
 -  🏢 Currently I'm Exploring Machine Learning and Working on Project
   
